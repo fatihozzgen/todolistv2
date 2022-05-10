@@ -1,0 +1,1 @@
+# Javascript alıştırmaları To Do List projesi.
